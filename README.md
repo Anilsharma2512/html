@@ -33,8 +33,8 @@
             <td>Ali</td>
             <td>86</td>
             <td>77</td>
-            <td>87</td>
-            <td>92</td>
+            <td>00</td>
+            <td>00</td>
             <td>95</td>
           </tr>
           <tr>
